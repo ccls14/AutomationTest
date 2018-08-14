@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="rdos_stress:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/rdos_stress_jar2</output-path>
+    <root id="archive" name="rdos_stress.jar">
+      <element id="module-output" name="rdos_stress" />
+      <element id="extracted-dir" path="C:/idea/jar/maven/commons-lang/commons-lang/2.6/commons-lang-2.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
