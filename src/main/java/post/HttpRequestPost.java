@@ -43,6 +43,7 @@ public class HttpRequestPost {
             if (code == 200) {
                 rev = EntityUtils.toString(response.getEntity());//返回json格式： {"id": "27JpL~j4vsL0LX00E00005","version": "abc"}
                 //System.out.println(rev);
+                
             }
         } catch (ClientProtocolException e) {
         } catch (IOException e) {

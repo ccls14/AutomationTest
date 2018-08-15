@@ -10,8 +10,10 @@ public class TestHttpPostData {
     @Test(dataProvider="getCatalogue",dataProviderClass = Data.class)
     public void getCatalogueTest(String url, String parameters) {
         JsonObject obj1 = gs.fromJson(HttpRequestPost.httpPostData(url, parameters), JsonObject.class);
-        String space = obj1.get("space").getAsString();
-        System.out.println("space:"+space);
+        JsonObject data = obj1.get("data").getAsJsonObject();
+        int id = data.get("id").getAsInt();
+        System.out.println("id:"+id);
+        Assert.assertEquals(id,207);
     }
 
 
