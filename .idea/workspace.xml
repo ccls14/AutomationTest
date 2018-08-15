@@ -6,7 +6,13 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="265dce28-0b09-4d6c-a6ff-90928fa2dbad" name="Default" comment="" />
+    <list default="true" id="265dce28-0b09-4d6c-a6ff-90928fa2dbad" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/config/parameters/getCatalogue" afterPath="$PROJECT_DIR$/config/parameters/getCatalogue" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/post/GetJson.java" afterPath="$PROJECT_DIR$/src/main/java/post/GetJson.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/post/GetParameter.java" afterPath="$PROJECT_DIR$/src/main/java/post/GetParameter.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/post/HttpRequestPost.java" afterPath="$PROJECT_DIR$/src/main/java/post/HttpRequestPost.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/post/TestHttpPostData.java" afterPath="$PROJECT_DIR$/src/main/java/post/TestHttpPostData.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,8 +35,8 @@
       <file leaf-file-name="Data.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/post/Data.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="18" column="44" lean-forward="false" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+            <state relative-caret-position="253">
+              <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -39,8 +45,8 @@
       <file leaf-file-name="HttpRequestPost.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/post/HttpRequestPost.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="37" column="11" lean-forward="true" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
+            <state relative-caret-position="64">
+              <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -51,29 +57,13 @@
       <file leaf-file-name="TestHttpPostData.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/post/TestHttpPostData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="log4j.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/conf/log4j.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="getCatalogue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/uri/getCatalogue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" column="63" lean-forward="true" selection-start-line="1" selection-start-column="63" selection-end-line="1" selection-end-column="63" />
-              <folding />
+            <state relative-caret-position="105">
+              <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#688#689#0" expanded="true" />
+                <element signature="e#749#750#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -84,6 +74,18 @@
             <state relative-caret-position="46">
               <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GetJson.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/post/GetJson.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -118,10 +120,22 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="GetParameter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/post/GetParameter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="TestJson.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/post/TestJson.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
+            <state relative-caret-position="253">
               <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -193,20 +207,20 @@
         <option value="$PROJECT_DIR$/src/main/java/http/Data.java" />
         <option value="$PROJECT_DIR$/src/main/java/get/GetUrl.java" />
         <option value="$PROJECT_DIR$/src/main/java/http/GetJson.java" />
-        <option value="$PROJECT_DIR$/config/parameters/getCatalogue" />
         <option value="$PROJECT_DIR$/src/main/java/get/GetIp.java" />
         <option value="$PROJECT_DIR$/src/main/java/http/GetJson1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/post/GetJson.java" />
         <option value="$PROJECT_DIR$/src/main/java/post/GetIp.java" />
-        <option value="$PROJECT_DIR$/src/main/java/post/GetParameter.java" />
         <option value="$PROJECT_DIR$/src/main/java/post/GetUrl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/post/HttpRequestPost.java" />
         <option value="$PROJECT_DIR$/conf/log4j.properties" />
         <option value="$PROJECT_DIR$/src/main/java/post/TestJson.java" />
         <option value="$PROJECT_DIR$/config/uri/addCatalogue" />
-        <option value="$PROJECT_DIR$/src/main/java/post/TestHttpPostData.java" />
         <option value="$PROJECT_DIR$/src/main/java/post/Data.java" />
         <option value="$PROJECT_DIR$/config/parameters/addCatalogue" />
+        <option value="$PROJECT_DIR$/src/main/java/post/GetParameter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/post/GetJson.java" />
+        <option value="$PROJECT_DIR$/config/parameters/getCatalogue" />
+        <option value="$PROJECT_DIR$/src/main/java/post/HttpRequestPost.java" />
+        <option value="$PROJECT_DIR$/src/main/java/post/TestHttpPostData.java" />
       </list>
     </option>
   </component>
@@ -357,32 +371,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestHttpPostData.addCatalogueTest">
+  <component name="RunManager" selected="TestNG.TestHttpPostData.getCatalogueTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
-    </configuration>
-    <configuration name="TestHttpPostData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="post.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="post.TestHttpPostData" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="rdos_stress" />
-      <envs />
     </configuration>
     <configuration name="TestJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
@@ -540,6 +535,38 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration name="TestHttpPostData.getCatalogueTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="post.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="rdos_stress" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="post" />
+      <option name="MAIN_CLASS_NAME" value="post.TestHttpPostData" />
+      <option name="METHOD_NAME" value="getCatalogueTest" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -574,19 +601,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.TestHttpPostData" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG.TestHttpPostData.cat_post" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.GetJson.getJson" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TestJson" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG.TestHttpPostData.addCatalogueTest" />
+      <item index="0" class="java.lang.String" itemvalue="TestNG.TestHttpPostData.cat_post" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.GetJson.getJson" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TestJson" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.TestHttpPostData.addCatalogueTest" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.TestHttpPostData.getCatalogueTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.TestHttpPostData.addCatalogueTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TestJson" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.TestHttpPostData.cat_post" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.GetJson.getJson" />
-        <item index="4" class="java.lang.String" itemvalue="Application.TestHttpPostData" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.TestHttpPostData.getCatalogueTest" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.TestHttpPostData.addCatalogueTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TestJson" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.TestHttpPostData.cat_post" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.GetJson.getJson" />
       </list>
     </recent_temporary>
   </component>
@@ -622,20 +649,20 @@
     <history-entry file="TestHttpPostData_addCatalogueTest - 2018.08.14 at 17h 37m 58s.xml">
       <configuration name="TestHttpPostData.addCatalogueTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHttpPostData_cat_post - 2018.08.14 at 13h 54m 29s.xml">
-      <configuration name="TestHttpPostData.cat_post" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestHttpPostData_cat_post - 2018.08.14 at 14h 07m 41s.xml">
-      <configuration name="TestHttpPostData.cat_post" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestHttpPostData_cat_post - 2018.08.14 at 14h 12m 07s.xml">
-      <configuration name="TestHttpPostData.cat_post" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="TestHttpPostData_cat_post - 2018.08.14 at 15h 48m 13s.xml">
       <configuration name="TestHttpPostData.cat_post" configurationId="TestNG" />
     </history-entry>
     <history-entry file="TestHttpPostData_cat_post - 2018.08.14 at 15h 59m 38s.xml">
       <configuration name="TestHttpPostData.cat_post" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHttpPostData_getCatalogueTest - 2018.08.15 at 11h 36m 09s.xml">
+      <configuration name="TestHttpPostData.getCatalogueTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHttpPostData_getCatalogueTest - 2018.08.15 at 11h 45m 13s.xml">
+      <configuration name="TestHttpPostData.getCatalogueTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHttpPostData_getCatalogueTest - 2018.08.15 at 12h 03m 42s.xml">
+      <configuration name="TestHttpPostData.getCatalogueTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -649,6 +676,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.4969743" order="6" side_tool="false" content_ui="tabs" />
@@ -659,11 +687,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4194079" sideWeight="0.5151286" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11497731" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3963816" sideWeight="0.48487142" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5354201" sideWeight="0.6490166" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39538714" sideWeight="0.48487142" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45963755" sideWeight="0.6490166" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.77845526" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22768533" sideWeight="0.77845526" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40296054" sideWeight="0.4969743" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1117,59 +1145,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/post/GetParameter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="38" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/post/GetJson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/post/GetUrl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/conf/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/post/TestJson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/post/HttpRequestPost.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="37" column="11" lean-forward="true" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1189,22 +1169,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/parameters/getCatalogue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/post/Data.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="18" column="44" lean-forward="false" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/parameters/addCatalogue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
@@ -1213,11 +1177,79 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/post/TestJson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/post/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/post/GetJson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/post/GetParameter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/post/GetUrl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/parameters/getCatalogue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/post/HttpRequestPost.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/post/TestHttpPostData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="105">
+          <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+            <element signature="e#749#750#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

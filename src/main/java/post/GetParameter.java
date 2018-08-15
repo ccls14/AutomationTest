@@ -1,13 +1,7 @@
 package post;
 
-
-
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
-import org.testng.annotations.Test;
-
-import java.io.BufferedReader;
-import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 
