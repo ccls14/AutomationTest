@@ -19,12 +19,12 @@ public class HttpRequestPost {
 
     public static String httpPostData(String url,String parameters) {
         String rev =null;
-        JsonParser parser = new JsonParser();
         JsonObject obj = null;
         Gson gs = new Gson();
         try {
             HttpClient httpclient = HttpClientBuilder.create().build();
             HttpPost httppost = new HttpPost(url);
+            System.out.println("url:"+url);
             //添加http头信息
             httppost.addHeader("Authorization", "your token"); //认证token
             httppost.addHeader("Content-Type", "application/json");
@@ -43,8 +43,12 @@ public class HttpRequestPost {
             if (code == 200) {
                 rev = EntityUtils.toString(response.getEntity());//返回json格式： {"id": "27JpL~j4vsL0LX00E00005","version": "abc"}
                 //System.out.println(rev);
-                
+                Assert.assertTrue(true);
+            }else {
+                Assert.assertTrue(false);
+
             }
+
         } catch (ClientProtocolException e) {
         } catch (IOException e) {
         } catch (Exception e) {

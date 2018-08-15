@@ -18,7 +18,6 @@ public class GetJson {
             }
             JSONObject dataJson = new JSONObject(tmpstr);
             aa = dataJson.toString();
-            System.out.println(aa);
             br.close();
         } catch (IOException e1) {
             // TODO Auto-generated catch block
