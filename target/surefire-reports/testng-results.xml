@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="1273" started-at="2018-08-15T09:43:08Z" finished-at="2018-08-15T09:43:10Z">
+    <groups>
+    </groups>
+    <test name="test12" duration-ms="1273" started-at="2018-08-15T09:43:08Z" finished-at="2018-08-15T09:43:10Z">
+      <class name="post.TestHttpPostData">
+        <test-method status="PASS" signature="getCatalogueTest(java.lang.String, java.lang.String)[pri:0, instance:post.TestHttpPostData@343f4d3d]" name="getCatalogueTest" duration-ms="1179" started-at="2018-08-15T17:43:09Z" data-provider="getCatalogue" finished-at="2018-08-15T17:43:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://172.16.8.113/api/rdos/batch/batchCatalogue/getCatalogue]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[{"catalogueType":"TaskDevelop","isGetFile":true,"nodePid":207}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCatalogueTest -->
+      </class> <!-- post.TestHttpPostData -->
+    </test> <!-- test12 -->
+  </suite> <!-- Suite1 -->
+</testng-results>

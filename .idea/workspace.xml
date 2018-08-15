@@ -7,50 +7,74 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="265dce28-0b09-4d6c-a6ff-90928fa2dbad" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_uncommons_reportng_1_1_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__velocity_velocity_1_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__velocity_velocity_dep_1_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Test Results - C__DTinsight_rdos_stress_src_main_java_post_testng_xml.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/post/testng.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_saxon_saxon_8_7.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_apkfuns_logutils_library_1_0_6.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/config/parameters/addCatalogue" afterPath="$PROJECT_DIR$/config/parameters/addCatalogue" />
       <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change beforePath="$PROJECT_DIR$/rdos_stress.iml" afterPath="$PROJECT_DIR$/rdos_stress.iml" />
-      <change beforePath="$PROJECT_DIR$/res/testNG.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Common.java" afterPath="$PROJECT_DIR$/src/main/java/test_wujing/Common.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CreateData.java" afterPath="$PROJECT_DIR$/src/main/java/test_wujing/CreateData.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaWordCount.java" afterPath="$PROJECT_DIR$/src/main/java/test_wujing/JavaWordCount.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MySparkTest.java" afterPath="$PROJECT_DIR$/src/main/java/test_wujing/MySparkTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SimpleApp.java" afterPath="$PROJECT_DIR$/src/main/java/test_wujing/SimpleApp.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SparkWordCountWithJava7.java" afterPath="$PROJECT_DIR$/src/main/java/test_wujing/SparkWordCountWithJava7.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Test1.java" afterPath="$PROJECT_DIR$/src/main/java/test_wujing/Test1.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TestNGTest.java" afterPath="$PROJECT_DIR$/src/main/java/test_wujing/TestNGTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/WordCountCluster.java" afterPath="$PROJECT_DIR$/src/main/java/test_wujing/WordCountCluster.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/post/GetJson.java" afterPath="$PROJECT_DIR$/src/main/java/post/GetJson.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/post/HttpRequestPost.java" afterPath="$PROJECT_DIR$/src/main/java/post/HttpRequestPost.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/post/TestHttpPostData.java" afterPath="$PROJECT_DIR$/src/main/java/post/TestHttpPostData.java" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Common.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/CreateData.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SimpleApp$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SimpleApp$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SimpleApp.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SparkWordCountWithJava7$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SparkWordCountWithJava7$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SparkWordCountWithJava7$3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SparkWordCountWithJava7$4.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SparkWordCountWithJava7$5.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SparkWordCountWithJava7.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Test1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TestNGTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/WordCountCluster$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/WordCountCluster$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/WordCountCluster$3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/WordCountCluster$4.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/WordCountCluster.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/post/GetJson.class" afterPath="$PROJECT_DIR$/target/classes/post/GetJson.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/post/HttpRequestPost.class" afterPath="$PROJECT_DIR$/target/classes/post/HttpRequestPost.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/post/TestHttpPostData.class" afterPath="$PROJECT_DIR$/target/classes/post/TestHttpPostData.class" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/get/HttpRequestGet.java" afterPath="$PROJECT_DIR$/src/test/java/get/HttpRequestGet.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/http/GetJson1.java" afterPath="$PROJECT_DIR$/src/test/java/http/GetJson1.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/http/JsontoMap.java" afterPath="$PROJECT_DIR$/src/test/java/http/JsontoMap.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/http/PostHttp.java" afterPath="$PROJECT_DIR$/src/test/java/http/PostHttp.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/http/RequestGet.java" afterPath="$PROJECT_DIR$/src/test/java/http/RequestGet.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/http/SimpleHttpClientDemo.java" afterPath="$PROJECT_DIR$/src/test/java/http/SimpleHttpClientDemo.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/http/TestGet.java" afterPath="$PROJECT_DIR$/src/test/java/http/TestGet.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/post/Data.java" afterPath="$PROJECT_DIR$/src/test/java/post/Data.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/post/GetJson.java" afterPath="$PROJECT_DIR$/src/test/java/post/GetJson.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/post/GetParameter.java" afterPath="$PROJECT_DIR$/src/test/java/post/GetParameter.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/post/GetUrl.java" afterPath="$PROJECT_DIR$/src/test/java/post/GetUrl.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/post/HttpRequestPost.java" afterPath="$PROJECT_DIR$/src/test/java/post/HttpRequestPost.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/post/TestHttpPostData.java" afterPath="$PROJECT_DIR$/src/test/java/post/TestHttpPostData.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/post/TestJson.java" afterPath="$PROJECT_DIR$/src/test/java/post/TestJson.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/post/testng.xml" afterPath="$PROJECT_DIR$/src/test/java/testng.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test_wujing/Common.java" afterPath="$PROJECT_DIR$/src/test/java/test_wujing/Common.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test_wujing/CreateData.java" afterPath="$PROJECT_DIR$/src/test/java/test_wujing/CreateData.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test_wujing/JavaWordCount.java" afterPath="$PROJECT_DIR$/src/test/java/test_wujing/JavaWordCount.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test_wujing/MySparkTest.java" afterPath="$PROJECT_DIR$/src/test/java/test_wujing/MySparkTest.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test_wujing/SimpleApp.java" afterPath="$PROJECT_DIR$/src/test/java/test_wujing/SimpleApp.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test_wujing/SparkWordCountWithJava7.java" afterPath="$PROJECT_DIR$/src/test/java/test_wujing/SparkWordCountWithJava7.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test_wujing/Test1.java" afterPath="$PROJECT_DIR$/src/test/java/test_wujing/Test1.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test_wujing/TestNGTest.java" afterPath="$PROJECT_DIR$/src/test/java/test_wujing/TestNGTest.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test_wujing/WordCountCluster.java" afterPath="$PROJECT_DIR$/src/test/java/test_wujing/WordCountCluster.java" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/get/HttpRequestGet.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/http/JsontoMap.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/http/RequestGet.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/http/SimpleHttpClientDemo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/http/TestGet.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/post/Data.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/post/GetJson.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/post/GetParameter.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/post/GetUrl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/post/HttpRequestPost.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/post/TestHttpPostData.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/post/TestJson.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test_wujing/Common.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test_wujing/CreateData.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test_wujing/SimpleApp$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test_wujing/SimpleApp$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test_wujing/SimpleApp.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test_wujing/SparkWordCountWithJava7$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test_wujing/SparkWordCountWithJava7$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test_wujing/SparkWordCountWithJava7$3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test_wujing/SparkWordCountWithJava7$4.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test_wujing/SparkWordCountWithJava7$5.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test_wujing/SparkWordCountWithJava7.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test_wujing/Test1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test_wujing/TestNGTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test_wujing/WordCountCluster$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test_wujing/WordCountCluster$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test_wujing/WordCountCluster$3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test_wujing/WordCountCluster$4.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test_wujing/WordCountCluster.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/target/rdos_stress-1.0-SNAPSHOT.jar" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -72,23 +96,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HttpRequestPost.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/post/HttpRequestPost.java">
+      <file leaf-file-name="Data.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/post/Data.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-23">
-              <caret line="35" column="12" lean-forward="false" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="253">
+              <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HttpRequestPost.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/post/HttpRequestPost.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-391">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="TestHttpPostData.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/post/TestHttpPostData.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/post/TestHttpPostData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="94">
-              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="255">
+              <caret line="23" column="44" lean-forward="false" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -96,12 +128,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test Results - C__DTinsight_rdos_stress_src_main_java_post_testng_xml.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test Results - C__DTinsight_rdos_stress_src_main_java_post_testng_xml.html">
+      <file leaf-file-name="GetJson.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/post/GetJson.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-414">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="138">
+              <caret line="19" column="37" lean-forward="false" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -109,78 +143,59 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="103" column="33" lean-forward="false" selection-start-line="103" selection-start-column="33" selection-end-line="103" selection-end-column="33" />
+            <state relative-caret-position="161">
+              <caret line="16" column="51" lean-forward="false" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rdos_stress.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rdos_stress.iml">
+      <file leaf-file-name="addCatalogue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/parameters/addCatalogue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            <state relative-caret-position="23">
+              <caret line="1" column="25" lean-forward="false" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="testng.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/post/testng.xml">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+            <state relative-caret-position="133">
+              <caret line="8" column="41" lean-forward="false" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SparkWordCountWithJava7.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/test_wujing/SparkWordCountWithJava7.java">
+      <file leaf-file-name="GetUrl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/post/GetUrl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="184">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Common.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/test_wujing/Common.java">
+      <file leaf-file-name="GetParameter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/post/GetParameter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="16" column="9" lean-forward="false" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+            <state relative-caret-position="115">
+              <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Data.class" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/target/classes/post/Data.class">
+      <file leaf-file-name="TestJson.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/post/TestJson.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-              <folding>
-                <marker date="1534319132637" expanded="true" signature="0:104" ph="/.../" />
-                <marker date="1534319132637" expanded="true" signature="204:211" ph="{}" />
-                <marker date="1534319132637" expanded="true" signature="217:267" ph="@{...}" />
-                <marker date="1534319132637" expanded="true" signature="312:461" ph="{...}" />
-                <marker date="1534319132637" expanded="true" signature="467:517" ph="@{...}" />
-                <marker date="1534319132637" expanded="true" signature="562:711" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GetJson.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/post/GetJson.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="19" column="37" lean-forward="false" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="184">
+              <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -258,13 +273,14 @@
         <option value="$PROJECT_DIR$/src/main/java/post/Data.java" />
         <option value="$PROJECT_DIR$/src/main/java/post/GetParameter.java" />
         <option value="$PROJECT_DIR$/config/parameters/getCatalogue" />
-        <option value="$PROJECT_DIR$/config/parameters/addCatalogue" />
         <option value="$PROJECT_DIR$/src/main/java/post/TestHttpPostData.java" />
-        <option value="$PROJECT_DIR$/src/main/java/post/HttpRequestPost.java" />
         <option value="$PROJECT_DIR$/src/main/java/post/GetJson.java" />
         <option value="$PROJECT_DIR$/src/testng.xml" />
         <option value="$PROJECT_DIR$/src/main/java/test_wujing/Common.java" />
+        <option value="$PROJECT_DIR$/src/main/java/post/HttpRequestPost.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/config/parameters/addCatalogue" />
+        <option value="$PROJECT_DIR$/src/test/java/testng.xml" />
       </list>
     </option>
   </component>
@@ -301,7 +317,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1378" />
@@ -335,24 +351,31 @@
             <path>
               <item name="rdos_stress" type="b2602c69:ProjectViewProjectNode" />
               <item name="rdos_stress" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rdos_stress" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rdos_stress" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="parameters" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="rdos_stress" type="b2602c69:ProjectViewProjectNode" />
               <item name="rdos_stress" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="rdos_stress" type="b2602c69:ProjectViewProjectNode" />
               <item name="rdos_stress" type="462c0819:PsiDirectoryNode" />
-              <item name="test-output" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="rdos_stress" type="b2602c69:ProjectViewProjectNode" />
               <item name="rdos_stress" type="462c0819:PsiDirectoryNode" />
-              <item name="test-output" type="462c0819:PsiDirectoryNode" />
-              <item name="old" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -375,12 +398,16 @@
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="XML&#10;JSON" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\DTinsight\rdos_stress\config\parameters" />
       <recent name="C:\DTinsight\rdos_stress\config\uri" />
       <recent name="C:\DTinsight\rdos_stress\config\url_config" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\DTinsight\rdos_stress\src\test\java" />
       <recent name="C:\DTinsight\rdos_stress\src\main\java\post" />
       <recent name="C:\DTinsight\rdos_stress\src\main\java\test" />
       <recent name="C:\DTinsight\rdos_stress\config\data_config" />
@@ -398,7 +425,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/DTinsight/rdos_stress/src/main/java/post/testng.xml">
+  <component name="RunManager" selected="TestNG.C:/DTinsight/rdos_stress/src/test/java/post/testng.xml">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -474,6 +501,33 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration name="C:/DTinsight/rdos_stress/src/test/java/post/testng.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="rdos_stress" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/post/testng.xml" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
     <configuration name="C:/DTinsight/rdos_stress/src/testng.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="rdos_stress" />
@@ -501,7 +555,7 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="TestHttpPostData.addCatalogueTest (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestHttpPostData.addCatalogueTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="post.*" />
@@ -565,38 +619,6 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="TestHttpPostData.getCatalogueTest (2)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="post.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="rdos_stress" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="post" />
-      <option name="MAIN_CLASS_NAME" value="post.TestHttpPostData" />
-      <option name="METHOD_NAME" value="getCatalogueTest" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -632,18 +654,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="TestNG.TestHttpPostData.addCatalogueTest" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG.TestHttpPostData.getCatalogueTest (2)" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.TestHttpPostData.addCatalogueTest (1)" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.C:/DTinsight/rdos_stress/src/testng.xml" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG.C:/DTinsight/rdos_stress/src/main/java/post/testng.xml" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.TestHttpPostData.addCatalogueTest (1)" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.C:/DTinsight/rdos_stress/src/testng.xml" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.C:/DTinsight/rdos_stress/src/main/java/post/testng.xml" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.C:/DTinsight/rdos_stress/src/test/java/post/testng.xml" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.C:/DTinsight/rdos_stress/src/main/java/post/testng.xml" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.C:/DTinsight/rdos_stress/src/testng.xml" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.TestHttpPostData.addCatalogueTest (1)" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.TestHttpPostData.addCatalogueTest" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.TestHttpPostData.getCatalogueTest (2)" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.C:/DTinsight/rdos_stress/src/test/java/post/testng.xml" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.C:/DTinsight/rdos_stress/src/main/java/post/testng.xml" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.C:/DTinsight/rdos_stress/src/testng.xml" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.TestHttpPostData.addCatalogueTest (1)" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.TestHttpPostData.addCatalogueTest" />
       </list>
     </recent_temporary>
   </component>
@@ -679,6 +701,9 @@
     <history-entry file="C__DTinsight_rdos_stress_src_main_java_post_testng_xml - 2018.08.15 at 15h 48m 56s.xml">
       <configuration name="C:/DTinsight/rdos_stress/src/main/java/post/testng.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="C__DTinsight_rdos_stress_src_test_java_post_testng_xml - 2018.08.15 at 17h 28m 14s.xml">
+      <configuration name="C:/DTinsight/rdos_stress/src/test/java/post/testng.xml" configurationId="TestNG" />
+    </history-entry>
     <history-entry file="C__DTinsight_rdos_stress_src_testng_xml - 2018.08.15 at 15h 28m 26s.xml">
       <configuration name="C:/DTinsight/rdos_stress/src/testng.xml" configurationId="TestNG" />
     </history-entry>
@@ -691,9 +716,6 @@
     <history-entry file="TestHttpPostData_addCatalogueTest_(1) - 2018.08.15 at 15h 17m 48s.xml">
       <configuration name="TestHttpPostData.addCatalogueTest (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHttpPostData_getCatalogueTest_(2) - 2018.08.15 at 14h 52m 13s.xml">
-      <configuration name="TestHttpPostData.getCatalogueTest (2)" configurationId="TestNG" />
-    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -705,23 +727,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1378" height="733" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.4969743" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32730263" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32718122" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4194079" sideWeight="0.5151286" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11497731" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36738056" sideWeight="0.48487142" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44966444" sideWeight="0.48487142" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45963755" sideWeight="0.6490166" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5771812" sideWeight="0.6490166" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25416037" sideWeight="0.77845526" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25493172" sideWeight="0.77845526" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -744,7 +765,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/test_wujing/CreateData.java</url>
+          <url>file://$PROJECT_DIR$/src/test/java/test_wujing/CreateData.java</url>
           <line>29</line>
           <properties />
         </line-breakpoint>
@@ -786,7 +807,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test_wujing/WordCountCluster.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/test_wujing/WordCountCluster.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
           <caret line="57" column="13" lean-forward="false" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
@@ -797,7 +818,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test_wujing/Test1.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/test_wujing/Test1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
@@ -819,7 +840,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test_wujing/JavaWordCount.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/test_wujing/JavaWordCount.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="36" column="15" lean-forward="false" selection-start-line="36" selection-start-column="15" selection-end-line="36" selection-end-column="15" />
@@ -827,7 +848,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test_wujing/CreateData.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/test_wujing/CreateData.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="40" column="12" lean-forward="false" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
@@ -835,7 +856,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test_wujing/SimpleApp.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/test_wujing/SimpleApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="34" />
@@ -843,7 +864,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test_wujing/TestNGTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/test_wujing/TestNGTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
@@ -851,7 +872,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test_wujing/Test1.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/test_wujing/Test1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="21" column="27" lean-forward="false" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
@@ -885,62 +906,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/get/HttpRequestGet.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/get/HttpRequestGet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-759">
           <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/http/GetJson1.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/http/GetJson1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/http/JsontoMap.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/http/JsontoMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26">
           <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="57" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/http/PostHttp.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/http/PostHttp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/http/RequestGet.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/http/RequestGet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
           <caret line="40" column="6" lean-forward="false" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/http/SimpleHttpClientDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/http/SimpleHttpClientDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
           <caret line="44" column="8" lean-forward="true" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/http/TestGet.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/http/TestGet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/post/TestJson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -952,42 +964,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/uri/getCatalogue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="63" lean-forward="true" selection-start-line="1" selection-start-column="63" selection-end-line="1" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/ip">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/post/Data.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/conf/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/uri/addCatalogue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -1054,52 +1034,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/parameters/addCatalogue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/post/GetUrl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/post/GetParameter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/post/GetJson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="19" column="37" lean-forward="false" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/post/HttpRequestPost.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-23">
-          <caret line="35" column="12" lean-forward="false" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1124,7 +1058,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test_wujing/SparkWordCountWithJava7.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/test_wujing/SparkWordCountWithJava7.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
@@ -1132,7 +1066,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test_wujing/Common.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/test_wujing/Common.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="16" column="9" lean-forward="false" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
@@ -1144,24 +1078,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-          <folding>
-            <marker date="1534319132637" expanded="true" signature="0:104" ph="/.../" />
-            <marker date="1534319132637" expanded="true" signature="204:211" ph="{}" />
-            <marker date="1534319132637" expanded="true" signature="217:267" ph="@{...}" />
-            <marker date="1534319132637" expanded="true" signature="312:461" ph="{...}" />
-            <marker date="1534319132637" expanded="true" signature="467:517" ph="@{...}" />
-            <marker date="1534319132637" expanded="true" signature="562:711" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/post/TestHttpPostData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1173,18 +1090,110 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/config/ip">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="103" column="33" lean-forward="false" selection-start-line="103" selection-start-column="33" selection-end-line="103" selection-end-column="33" />
+        <state relative-caret-position="46">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/post/testng.xml">
+    <entry file="file://$PROJECT_DIR$/config/uri/getCatalogue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        <state relative-caret-position="23">
+          <caret line="1" column="63" lean-forward="true" selection-start-line="1" selection-start-column="63" selection-end-line="1" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/uri/addCatalogue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/post/TestHttpPostData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="23" column="44" lean-forward="false" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/post/TestJson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/post/GetJson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="19" column="37" lean-forward="false" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/post/HttpRequestPost.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-391">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/post/GetUrl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/post/GetParameter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/post/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="16" column="51" lean-forward="false" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/parameters/addCatalogue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="25" lean-forward="false" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="8" column="41" lean-forward="false" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
           <folding />
         </state>
       </provider>
