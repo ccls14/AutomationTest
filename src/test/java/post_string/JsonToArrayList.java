@@ -1,4 +1,4 @@
-package post;
+package post_string;
 
 import com.google.common.reflect.TypeToken;
 import com.google.gson.Gson;
