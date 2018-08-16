@@ -5,9 +5,9 @@
             <class name="post.TestHttpPostData">
                 <methods>
                     <include name="getCatalogueTest" />
-                    <!--
+
                     <include name="addCatalogueTest" />
-                    -->
+
                 </methods>
             </class>
         </classes>

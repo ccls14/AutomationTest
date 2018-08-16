@@ -2,6 +2,7 @@ package post;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;
+import org.json.JSONArray;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
@@ -23,4 +24,5 @@ public class TestHttpPostData {
         System.out.println("name:"+name);
         Assert.assertEquals(name,"aaasaqq");
     }
+
 }

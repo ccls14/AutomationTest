@@ -21,5 +21,14 @@ public class Data {
         };
     }
 
+    @DataProvider(name="addCatalogue1")
+    public static Object[][] addCatalogue1() {
+        return new Object[][]{
+                {GetUrl.getUrl( "config/uri/addCatalogue", "addCatalogue"),
+                        GetJsonArray.getJson("config/parameters/addCatalogue1"),
+                },
+        };
+    }
+
 }
 

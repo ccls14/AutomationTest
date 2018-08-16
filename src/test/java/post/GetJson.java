@@ -1,6 +1,7 @@
 package post;
 
 
+import org.json.JSONArray;
 import org.json.JSONObject;
 import java.io.*;
 
@@ -16,7 +17,9 @@ public class GetJson {
             while ((s = br.readLine()) != null) {
                 tmpstr += s;
             }
+            System.out.println(tmpstr);
             JSONObject dataJson = new JSONObject(tmpstr);
+            System.out.println(dataJson);
             aa = dataJson.toString();
             br.close();
         } catch (IOException e1) {
