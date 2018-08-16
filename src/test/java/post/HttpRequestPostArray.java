@@ -35,7 +35,7 @@ public class HttpRequestPostArray {
 
 
 
-            for (int i = 0; i < parameters.length(); i++) {
+            for (int i = 0; i <= parameters.length(); i++) {
                 JSONObject jsonObject = parameters.getJSONObject(i);
                 System.out.println(jsonObject.toString());
 

@@ -22,7 +22,16 @@ public class TestHttpPostData {
         JsonObject data = obj.get("data").getAsJsonObject();
         String name = data.get("name").getAsString();
         System.out.println("name:"+name);
-        Assert.assertEquals(name,"aaasaqq");
+        Assert.assertEquals(name,"a");
+    }
+
+    @Test(dataProvider="addCatalogue1",dataProviderClass = Data.class)
+    public static void addCatalogueTest1(String url,JSONArray parameters) {
+        JsonObject obj = new Gson().fromJson(HttpRequestPostArray.httpPostData(url, parameters),JsonObject.class);
+        JsonObject data = obj.get("data").getAsJsonObject();
+        String name = data.get("name").getAsString();
+        System.out.println("name:"+name);
+        //Assert.assertEquals(name,"aaasaqq");
     }
 
 }

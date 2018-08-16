@@ -7,7 +7,7 @@ public class Data {
     public static Object[][] getCatalogue() {
         return new Object[][]{
                 {GetUrl.getUrl( "config/uri/getCatalogue", "getCatalogue"),
-                        GetJson.getJson("config/parameters/getCatalogue"),
+                        GetJson.getJson("config/parameters/getCatalogue.json"),
                 },
         };
     }
@@ -16,7 +16,7 @@ public class Data {
     public static Object[][] addCatalogue() {
         return new Object[][]{
                 {GetUrl.getUrl( "config/uri/addCatalogue", "addCatalogue"),
-                        GetJson.getJson("config/parameters/addCatalogue"),
+                        GetJson.getJson("config/parameters/addCatalogue.json"),
                 },
         };
     }
@@ -25,7 +25,7 @@ public class Data {
     public static Object[][] addCatalogue1() {
         return new Object[][]{
                 {GetUrl.getUrl( "config/uri/addCatalogue", "addCatalogue"),
-                        GetJsonArray.getJson("config/parameters/addCatalogue1"),
+                        GetJsonArray.getJson("config/parameters/addCatalogue1.json"),
                 },
         };
     }
